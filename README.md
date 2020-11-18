@@ -1,4 +1,7 @@
 # td-dft.github.io
-Manuals for td-software in future
+Manuals for td-software in future.<br>
+Developer:
+- [@cndaqiang](https://github.com/cndaqiang)
 
-You can download schedule from [schedule](/DOC/2020-11/schedule.pdf)
+# Links
+[第三届“凝聚物质的激发态”研讨会 (线上会议)](https://td-dft.github.io/html/excitation.html)
